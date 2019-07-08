@@ -1,0 +1,3 @@
+fotky_17.ppm
+	without_fscanf 	- 1.773947 s
+	mmapped 		- 1.568109 s
